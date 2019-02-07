@@ -1,0 +1,28 @@
+Enter no. of processes
+
+4
+Enter Arrival time
+
+2
+3
+4
+1
+Enter Execution or burst time
+
+2
+3
+45
+4
+complimation time    waiting time      turn around time
+2                  -2                       0
+
+6                  0                       3
+
+51                  2                       47
+
+55                  50                       54
+
+
+--------------------------------
+Process exited after 97.14 seconds with return value 0
+Press any key to continue . . .
