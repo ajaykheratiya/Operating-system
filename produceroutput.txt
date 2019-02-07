@@ -1,0 +1,19 @@
+enter the choice
+ 1.producer
+ 2.consumer
+ 3.exit
+1
+buffer is fullenter the choice
+ 1.producer
+ 2.consumer
+ 3.exit
+2
+buffer emptyenter the choice
+ 1.producer
+ 2.consumer
+ 3.exit
+3
+
+--------------------------------
+Process exited after 4.056 seconds with return value 0
+Press any key to continue . . .
