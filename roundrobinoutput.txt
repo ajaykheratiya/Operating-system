@@ -1,0 +1,11 @@
+Enter no. of processes4
+Enter  burst time2 3 4 6
+Waiting time and turn around time is :
+    0     2
+    2     5
+    5     9
+    9     15
+
+--------------------------------
+Process exited after 9.031 seconds with return value 0
+Press any key to continue . . .
