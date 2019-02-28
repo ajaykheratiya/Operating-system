@@ -1,0 +1,76 @@
+run:
+Added Item1
+Added Item2
+remove Item[2]
+remove Item[]
+buffer is empty
+Added Item3
+remove Item[]
+buffer is empty
+Added Item4
+Added Item5
+remove Item[5]
+Added Item6
+remove Item[6]
+remove Item[]
+Added Item7
+Added Item8
+remove Item[8]
+Added Item9
+remove Item[9]
+remove Item[]
+Added Item10
+remove Item[]
+buffer is empty
+Added Item11
+remove Item[]
+Added Item12
+remove Item[]
+Added Item13
+remove Item[]
+Added Item14
+remove Item[]
+buffer is empty
+Added Item15
+remove Item[]
+buffer is empty
+Added Item16
+Added Item17
+remove Item[17]
+Added Item18
+remove Item[18]
+Added Item19
+Added Item20
+remove Item[19, 20]
+Added Item21
+remove Item[20, 21]
+remove Item[21]
+remove Item[]
+buffer is empty
+Added Item22
+remove Item[]
+buffer is empty
+Added Item23
+Added Item24
+Added Item25
+Added Item26
+remove Item[24, 25, 26]
+remove Item[25, 26]
+Added Item27
+Added Item28
+Added Item29
+Added Item30
+Added Item31
+Added Item32
+remove Item[26, 27, 28, 29, 30, 31, 32]
+remove Item[27, 28, 29, 30, 31, 32]
+remove Item[28, 29, 30, 31, 32]
+remove Item[29, 30, 31, 32]
+Added Item33
+remove Item[30, 31, 32, 33]
+Added Item34
+Added Item35
+remove Item[31, 32, 33, 34, 35]
+remove Item[32, 33, 34, 35]
+Added Item36
+BUILD STOPPED (total time: 8 seconds)
