@@ -1,0 +1,8 @@
+run:
+Thread[r2,5,main]start reading
+Thread[r1,5,main]start reading
+Thread[r2,5,main]end reading
+Thread[r1,5,main]end reading
+Thread[w1,5,main]start writting
+Thread[w1,5,main]end writing
+BUILD SUCCESSFUL (total time: 1 second)
